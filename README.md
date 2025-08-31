@@ -100,11 +100,6 @@ RSA-Encryption/
 │── LICENSE (optional)
 ```
 
----
-
-## 📸 Sample Output
-
-![Sample Output](examples/sample_output.png)
 
 ---
 
@@ -116,7 +111,10 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 
 ## 🤝 Contributing
 
-Pull requests are welcome! If you find bugs or want to improve the project, feel free to contribute.
+Contributions are welcome!  
+If you find any issues, bugs, or have ideas to improve this project, feel free to fork the repository and submit a pull request.  
+Let's make this project better together! 
+
 
 ---
 
