@@ -68,7 +68,10 @@ pip install -r requirements.txt
 
 ## 🛠️ Usage
 
+Run the Python script:
 
+```bash
+python src/rsa_encryption.py
 ```
 
 Example session:
@@ -81,8 +84,6 @@ Enter the message to encrypt: Hello RSA
 Encrypted Message: [311, 1902, 2921, 2921, 4023, 391]
 Decrypted Message: Hello RSA
 ```
-
-
 
 ---
 
@@ -106,4 +107,5 @@ Let's make this project better together!
 **Arshia J**
 GitHub: [Arshia22j](https://github.com/Arshia22j)
 Email: [arshia4321.jamalian@gmail.com](mailto:arshia4321.jamalian@gmail.com)
+
 
