@@ -47,7 +47,7 @@ Clone the repository and navigate into the project folder:
 
 ```bash
 git clone https://github.com/Arshia22j/RSA-Encryption.git
-cd RSA-Encryption
+cd RSA-project
 ```
 
 (Optional) Create and activate a virtual environment:
@@ -68,10 +68,7 @@ pip install -r requirements.txt
 
 ## 🛠️ Usage
 
-Run the Python script:
 
-```bash
-python src/rsa_encryption.py
 ```
 
 Example session:
@@ -85,20 +82,6 @@ Encrypted Message: [311, 1902, 2921, 2921, 4023, 391]
 Decrypted Message: Hello RSA
 ```
 
----
-
-## 📂 Project Structure
-
-```
-RSA-Encryption/
-│── src/
-│   └── rsa_encryption.py       # Main Python script
-│── examples/
-│   └── sample_output.png      # Sample output screenshot
-│── README.md
-│── requirements.txt
-│── LICENSE (optional)
-```
 
 
 ---
